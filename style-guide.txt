@@ -1,0 +1,41 @@
+FUENTE, TAMAÑOS Y COLORES:
+
+Fuente lato-light, regular, bold.
+
+font-family: 'Lato', sans-serif;
+
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+
+
+SIDEBAR
+
+h2 #C9C9C9  (COLOR GRIS CLARO)(font: LATO REGULAR)(size: 32px)
+h3 #EA663B  (COLOR NARANJA)(font: LATO REGULAR)(size: 18px)
+
+p  #EA663B  (COLOR NARANJA)(font: LATO REGULAR)(size: 14px)
+p  #BDBCBC  (COLOR GRIS)(font: LATO REGULAR)(size: 14px)
+
+CONTENT
+
+h1 #EA663B  (COLOR NARANJA)(font: LATO LIGHT)(size: 42px)
+p  #BDBCBC  (COLOR GRIS)(font: LATO REGULAR)(size: 16px)
+
+h2 #C9C9C9  (GRIS CLARO)(font: LATO REGULAR)(size: 24px)
+p  #BDBCBC  (COLOR GRIS)(font: LATO REGULAR)(size: 12px)
+Subtitulos #21282E (COLOR PETROLEO)(font: LATO BOLD)(size: 16px)
+
+COLOR - TABLE
+(COLOR TABLE1) #EA663B (COLOR NARANJA)
+(COLOR TABLE2) #F2F1F1 (COLOR GRIS CLARO)
+
+COLOR TEXTO - TABLE
+p  #ffffff  (COLOR BLANCO)(font: LATO REGULAR)(size: 12px)
+P  #21282E (COLOR PETROLEO)(font: LATO REGULAR)(size: 16px)
+
+COMENTARIOS
+h2 #EA663B  (COLOR NARANJA)(font: LATO REGULAR)(size: 24px)
+h3 #21282E (COLOR PETROLEO)(font: LATO BOLD)(size: 18px)
+p  #BDBCBC  (COLOR GRIS)(font: LATO REGULAR)(size: 14px)
+p  #BDBCBC  COLOR PETROLEO)(font: LATO REGULAR)(size: 14px)
+
+(COLOR DE BOTON)  #8E8E8E (COLOR PETROLEO)	 
